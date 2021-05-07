@@ -22,3 +22,6 @@ const aula5 = () => {
 }
 
 export default aula5
+import Header from './Desafio/Header';
+import Home from './Desafio/Home';
+import Produtos from './Desafio/Produtos';

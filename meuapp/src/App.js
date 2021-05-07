@@ -1,12 +1,14 @@
 import React from 'react';
+import Tablet from './exerciciosUseState/Tablet';
 
 const App = () => {
+return (
+  <>
+  <Tablet />
+  </>
+)
 
-  return (
-    <div>
 
-    </div>
-  )
 }
 
 
